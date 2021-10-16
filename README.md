@@ -1,4 +1,4 @@
-Hey there 👋 , my name is **David (Min Xiao) Li**. I'm a software engineer based out of **Vancouver, Canada**. I currently work at [Amazon Web Services](https://aws.amazon.com).
+Hey there 👋 , my name is **David (Min Xiao) Li**. I'm a software engineer based out of **New York**. I currently work at [Asana](https://asana.com).
 
 Check out my [personal website and blog here](https://davidli.io).
 
